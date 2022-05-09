@@ -570,6 +570,7 @@ textarea
     height: 175px;
     border: 1px solid #fff;
     margin-left: 8px;
+    resize: none;
     
 }
 
